@@ -1,0 +1,16 @@
+backports.shutil-get-terminal-size==1.0.0
+cycler==0.10.0
+decorator==4.0.9
+ipython==4.2.0
+ipython-genutils==0.1.0
+matplotlib==1.5.1
+numpy==1.11.0
+pexpect==4.0.1
+pickleshare==0.7.2
+ptyprocess==0.5.1
+pyparsing==2.1.4
+python-dateutil==2.5.3
+pytz==2016.4
+simplegeneric==0.8.1
+six==1.10.0
+traitlets==4.2.1
